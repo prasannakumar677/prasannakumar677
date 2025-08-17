@@ -7,6 +7,6 @@
 - 😄 Pronouns: Prasukumar 
 - ⚡ Fun fact: 
 <!---
-prasannakumar677/prasannakumar677 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+prasannakumar/prasannakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
